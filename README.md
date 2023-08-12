@@ -14,8 +14,3 @@ Leveraging 3D printing, we crafted precision components for polarisation experim
 4. 3D print the models.
 5. Assemble components per design.
 6. Conduct polarimetry experiments as described in the abstract.
-
-## Contributing
-
-Contributions are welcome. Fork the repository, make changes, submit a pull request.
-
